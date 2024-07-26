@@ -1,11 +1,9 @@
 ```yaml
----
 title: Square Every Digit
 author: MysteriousMagenta
 difficulty: Amateur
 kyu_rating: 7
 source: CodeWars
----
 ```
 
 ## Question
