@@ -17,3 +17,4 @@ const getCount = (str) => {
 
 console.log(getCount('Rendezvous'));
 console.log(getCount('Tyrannosaurus'));
+console.log(getCount('abracadabra'));
