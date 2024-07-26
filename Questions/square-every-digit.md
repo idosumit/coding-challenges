@@ -1,10 +1,12 @@
+```yaml
 ---
 title: Square Every Digit
-tag: Coding Challenges
 author: MysteriousMagenta
-difficulty: Amateur (7 Kyu on CodeWars)
-source: [CodeWars](https://www.codewars.com/kata/546e2562b03326a88e000020)
+difficulty: Amateur
+kyu_rating: 7
+source: CodeWars
 ---
+```
 
 ## Question
 

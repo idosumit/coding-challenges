@@ -1,4 +1,5 @@
-#Coding Challenges
+# Coding Challenges
+
 This is where I'll add all the questions I've come across and solved in my pursuit of improving my coding skills.
 
 There are 2 primary folders:
